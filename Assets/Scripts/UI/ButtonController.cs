@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class ButtonController : MonoBehaviour
 {
-    public string name;
-    public void PassScene()
+    
+    public void PassScene(string name)
     {
-        SceneManager.LoadScene("Game1");
+        SceneManager.LoadScene(name);
     }
 }

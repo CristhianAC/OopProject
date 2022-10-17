@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using InputC;
 public class PlayerController : MonoBehaviour
 {
     InputControll ip = new InputControll();
@@ -24,9 +24,8 @@ public class PlayerController : MonoBehaviour
         ip.check();
 
         rg.velocity = new Vector2 (ip.moveh * vel, ip.movev*vel);
-        
-        
     }
+
     private void FixedUpdate()
     {
         if (ip.moveh < 0 && isFacingRight)
@@ -37,6 +36,17 @@ public class PlayerController : MonoBehaviour
             Flip();
         }
     }
+
+    public Vector2 pixelPerfectClampPos(Vector2 moveVector, float pixelsPerUnit)
+    {
+        Vector2 vectorInPixels = new Vector2
+            (
+                Mathf.RoundToInt(moveVector.x * pixelsPerUnit),
+                Mathf.RoundToInt(moveVector.y * pixelsPerUnit)
+            );
+        return vectorInPixels / pixelsPerUnit;
+    }
+
     private void LateUpdate()
     {
         if (ip.moveh!=0 || ip.movev != 0) {
@@ -46,6 +56,7 @@ public class PlayerController : MonoBehaviour
         {
             anim.SetBool("Walking", false);
         }
+        transform.position = pixelPerfectClampPos(transform.position, 16);
     }
     protected void Flip()
     {
@@ -54,8 +65,5 @@ public class PlayerController : MonoBehaviour
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;
         transform.localScale = theScale;
-
-        
-        
     }
 }

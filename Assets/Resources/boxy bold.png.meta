@@ -1,0 +1,2783 @@
+fileFormatVersion: 2
+guid: 05b25d7c6f3d7dc42a96c0da3ca355f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4996111385540782556
+    second: boxy bold_0
+  - first:
+      213: -9113147294490029140
+    second: boxy bold_1
+  - first:
+      213: 602644359431820373
+    second: boxy bold_2
+  - first:
+      213: 6847591342968336768
+    second: boxy bold_3
+  - first:
+      213: 3046433768831883521
+    second: boxy bold_4
+  - first:
+      213: -540629622861439690
+    second: boxy bold_5
+  - first:
+      213: 7067305178502270859
+    second: boxy bold_6
+  - first:
+      213: -7967279630707282703
+    second: boxy bold_7
+  - first:
+      213: 183136469496845387
+    second: boxy bold_8
+  - first:
+      213: -560701393189592678
+    second: boxy bold_9
+  - first:
+      213: -4344506592074048321
+    second: boxy bold_10
+  - first:
+      213: -8355795876744824711
+    second: boxy bold_11
+  - first:
+      213: 3208495178721420481
+    second: boxy bold_12
+  - first:
+      213: -3034695398683040550
+    second: boxy bold_13
+  - first:
+      213: 5726078869492818293
+    second: boxy bold_14
+  - first:
+      213: -4360730149776949970
+    second: boxy bold_15
+  - first:
+      213: 6070410288233114916
+    second: boxy bold_16
+  - first:
+      213: -8237042410892931890
+    second: boxy bold_17
+  - first:
+      213: -8690171436039817333
+    second: boxy bold_18
+  - first:
+      213: 1093925496483121196
+    second: boxy bold_19
+  - first:
+      213: -2931484290023171635
+    second: boxy bold_20
+  - first:
+      213: -138908148845076357
+    second: boxy bold_21
+  - first:
+      213: -3253802627529684707
+    second: boxy bold_22
+  - first:
+      213: 4789678446239722794
+    second: boxy bold_23
+  - first:
+      213: 1188059641670440953
+    second: boxy bold_24
+  - first:
+      213: -3045499252729017701
+    second: boxy bold_25
+  - first:
+      213: 1169645266073594957
+    second: boxy bold_26
+  - first:
+      213: -1573334742257239334
+    second: boxy bold_27
+  - first:
+      213: 7640201458361407791
+    second: boxy bold_28
+  - first:
+      213: -3222115015946048460
+    second: boxy bold_29
+  - first:
+      213: -8347796518051701960
+    second: boxy bold_30
+  - first:
+      213: -5970210936825666998
+    second: boxy bold_31
+  - first:
+      213: 5088676880496988412
+    second: boxy bold_32
+  - first:
+      213: -5606086136565982202
+    second: boxy bold_33
+  - first:
+      213: -8022429604867443598
+    second: boxy bold_34
+  - first:
+      213: 3629558766271791742
+    second: boxy bold_35
+  - first:
+      213: 1055771045683850688
+    second: boxy bold_36
+  - first:
+      213: 8350222001273952452
+    second: boxy bold_37
+  - first:
+      213: 4032540321486841133
+    second: boxy bold_38
+  - first:
+      213: 5179439275744523346
+    second: boxy bold_39
+  - first:
+      213: -5308603880640976057
+    second: boxy bold_40
+  - first:
+      213: 8495494276810445403
+    second: boxy bold_41
+  - first:
+      213: 1024563344415414435
+    second: boxy bold_42
+  - first:
+      213: 8804950497941074382
+    second: boxy bold_43
+  - first:
+      213: 4110322998232385313
+    second: boxy bold_44
+  - first:
+      213: 2071816293107392126
+    second: boxy bold_45
+  - first:
+      213: -3764155875957576391
+    second: boxy bold_46
+  - first:
+      213: -6632075037869405867
+    second: boxy bold_47
+  - first:
+      213: 8517252346407891737
+    second: boxy bold_48
+  - first:
+      213: -4059983768473021730
+    second: boxy bold_49
+  - first:
+      213: -3379204157536049074
+    second: boxy bold_50
+  - first:
+      213: 7708455618196070012
+    second: boxy bold_51
+  - first:
+      213: 6741688181171530423
+    second: boxy bold_52
+  - first:
+      213: 7733063071290879180
+    second: boxy bold_53
+  - first:
+      213: 607811739555253970
+    second: boxy bold_54
+  - first:
+      213: -8931097606182128345
+    second: boxy bold_55
+  - first:
+      213: -5437125348903510403
+    second: boxy bold_56
+  - first:
+      213: -7774446982008413684
+    second: boxy bold_57
+  - first:
+      213: -5893702044382639930
+    second: boxy bold_58
+  - first:
+      213: 4558993158651768318
+    second: boxy bold_59
+  - first:
+      213: -6813867186012460128
+    second: boxy bold_60
+  - first:
+      213: -3214921672094344305
+    second: boxy bold_61
+  - first:
+      213: -6812741966619895747
+    second: boxy bold_62
+  - first:
+      213: -1198042531137153517
+    second: boxy bold_63
+  - first:
+      213: 198299121020363275
+    second: boxy bold_64
+  - first:
+      213: 3134305028495434727
+    second: boxy bold_65
+  - first:
+      213: 1903295701856787208
+    second: boxy bold_66
+  - first:
+      213: 8305557071822538074
+    second: boxy bold_67
+  - first:
+      213: 3771736595119753673
+    second: boxy bold_68
+  - first:
+      213: 6125365818328088619
+    second: boxy bold_69
+  - first:
+      213: -4763031434608982561
+    second: boxy bold_70
+  - first:
+      213: 1194409775067723407
+    second: boxy bold_71
+  - first:
+      213: -6177425481686347357
+    second: boxy bold_72
+  - first:
+      213: -5865099338802533484
+    second: boxy bold_73
+  - first:
+      213: -8738543781014219115
+    second: boxy bold_74
+  - first:
+      213: -4333838033703443656
+    second: boxy bold_75
+  - first:
+      213: 6578981946547586518
+    second: boxy bold_76
+  - first:
+      213: 132788538588797122
+    second: boxy bold_77
+  - first:
+      213: 801120143603130901
+    second: boxy bold_78
+  - first:
+      213: -2881629194927878148
+    second: boxy bold_79
+  - first:
+      213: -8997511223726405368
+    second: boxy bold_80
+  - first:
+      213: 1298298055295119732
+    second: boxy bold_81
+  - first:
+      213: -622430794035850304
+    second: boxy bold_82
+  - first:
+      213: -3462102963283669306
+    second: boxy bold_83
+  - first:
+      213: 7257519216442156373
+    second: boxy bold_84
+  - first:
+      213: 2867850873146946899
+    second: boxy bold_85
+  - first:
+      213: 1967459211099267017
+    second: boxy bold_86
+  - first:
+      213: 3960904150179435669
+    second: boxy bold_87
+  - first:
+      213: -3966318516207166172
+    second: boxy bold_88
+  - first:
+      213: 5888390243576482388
+    second: boxy bold_89
+  - first:
+      213: -7796794731698214552
+    second: boxy bold_90
+  - first:
+      213: 8908555231413795479
+    second: boxy bold_91
+  - first:
+      213: -4108162280001956554
+    second: boxy bold_92
+  - first:
+      213: -4751345281896108273
+    second: boxy bold_93
+  - first:
+      213: -3555994276390080335
+    second: boxy bold_0
+  - first:
+      213: 8381148152234790531
+    second: boxy bold_1
+  - first:
+      213: 2681106466643080629
+    second: boxy bold_2
+  - first:
+      213: 7698933752004121549
+    second: boxy bold_3
+  - first:
+      213: 4523515989859088644
+    second: boxy bold_4
+  - first:
+      213: -6993625137794603974
+    second: boxy bold_5
+  - first:
+      213: -8063143304908524141
+    second: boxy bold_6
+  - first:
+      213: 6261253951197730047
+    second: boxy bold_7
+  - first:
+      213: 1299588595024874116
+    second: boxy bold_8
+  - first:
+      213: -2311451662793326717
+    second: boxy bold_9
+  - first:
+      213: -8273909009550682649
+    second: boxy bold_10
+  - first:
+      213: -8308500637486726075
+    second: boxy bold_11
+  - first:
+      213: 7953957715223781059
+    second: boxy bold_12
+  - first:
+      213: -4598537029676629350
+    second: boxy bold_13
+  - first:
+      213: -4979629134577789950
+    second: boxy bold_14
+  - first:
+      213: -353675258606618100
+    second: boxy bold_15
+  - first:
+      213: 1320903948438316136
+    second: boxy bold_16
+  - first:
+      213: -2340491232768463858
+    second: boxy bold_17
+  - first:
+      213: 5738662618508568151
+    second: boxy bold_18
+  - first:
+      213: -2941724080571692732
+    second: boxy bold_19
+  - first:
+      213: -6159702627463062275
+    second: boxy bold_20
+  - first:
+      213: -7821259997968357507
+    second: boxy bold_21
+  - first:
+      213: -4992467704546088457
+    second: boxy bold_22
+  - first:
+      213: 4521145121898641181
+    second: boxy bold_23
+  - first:
+      213: -2891697109883904301
+    second: boxy bold_24
+  - first:
+      213: -2926533303024217585
+    second: boxy bold_25
+  - first:
+      213: 6247252336349760386
+    second: boxy bold_26
+  - first:
+      213: -1088364564894517946
+    second: boxy bold_27
+  - first:
+      213: 5915256881557974361
+    second: boxy bold_28
+  - first:
+      213: -5143930247999846506
+    second: boxy bold_29
+  - first:
+      213: 9018625021653974622
+    second: boxy bold_30
+  - first:
+      213: -8732931143307004286
+    second: boxy bold_31
+  - first:
+      213: 2378571011692755621
+    second: boxy bold_32
+  - first:
+      213: -2657512381508587356
+    second: boxy bold_33
+  - first:
+      213: -1937414958045345787
+    second: boxy bold_34
+  - first:
+      213: 2788300729049630656
+    second: boxy bold_35
+  - first:
+      213: 2038031102414887400
+    second: boxy bold_36
+  - first:
+      213: 6689398176410922141
+    second: boxy bold_37
+  - first:
+      213: -8892447524131047054
+    second: boxy bold_38
+  - first:
+      213: 3270409686949296277
+    second: boxy bold_39
+  - first:
+      213: 565525699380465259
+    second: boxy bold_40
+  - first:
+      213: -4867989926731088502
+    second: boxy bold_41
+  - first:
+      213: -1292306550298460550
+    second: boxy bold_42
+  - first:
+      213: -5024803857288096413
+    second: boxy bold_43
+  - first:
+      213: 5159896788536213627
+    second: boxy bold_44
+  - first:
+      213: -7060329763404820729
+    second: boxy bold_45
+  - first:
+      213: 2987751893471683046
+    second: boxy bold_46
+  - first:
+      213: -6579831156181413237
+    second: boxy bold_47
+  - first:
+      213: 224776840119602691
+    second: boxy bold_48
+  - first:
+      213: -6938886265604205442
+    second: boxy bold_49
+  - first:
+      213: 8796992078933953372
+    second: boxy bold_50
+  - first:
+      213: 5876882340639668575
+    second: boxy bold_51
+  - first:
+      213: 7976755247385252997
+    second: boxy bold_52
+  - first:
+      213: 844659284364548175
+    second: boxy bold_53
+  - first:
+      213: 8611231833961084873
+    second: boxy bold_54
+  - first:
+      213: -7818396002468987456
+    second: boxy bold_55
+  - first:
+      213: -8264853299966777360
+    second: boxy bold_56
+  - first:
+      213: 5830817964653003331
+    second: boxy bold_57
+  - first:
+      213: 9074571735169005126
+    second: boxy bold_58
+  - first:
+      213: -4766817040039568776
+    second: boxy bold_59
+  - first:
+      213: -2897910714187664302
+    second: boxy bold_60
+  - first:
+      213: 4765994790855480896
+    second: boxy bold_61
+  - first:
+      213: 30474127768699646
+    second: boxy bold_62
+  - first:
+      213: -1134531899834107239
+    second: boxy bold_63
+  - first:
+      213: -6042517507405205191
+    second: boxy bold_64
+  - first:
+      213: 565706730275169836
+    second: boxy bold_65
+  - first:
+      213: 989583333747179936
+    second: boxy bold_66
+  - first:
+      213: -9017151277067790795
+    second: boxy bold_67
+  - first:
+      213: 5275473082235662401
+    second: boxy bold_68
+  - first:
+      213: -5603102061230175228
+    second: boxy bold_69
+  - first:
+      213: -8161384510335400281
+    second: boxy bold_70
+  - first:
+      213: 1992318521309163000
+    second: boxy bold_71
+  - first:
+      213: 6507285111823706681
+    second: boxy bold_72
+  - first:
+      213: -1124657714920531492
+    second: boxy bold_73
+  - first:
+      213: -8586533190331924231
+    second: boxy bold_74
+  - first:
+      213: 1390293975047485039
+    second: boxy bold_75
+  - first:
+      213: 5373630629529324914
+    second: boxy bold_76
+  - first:
+      213: 4068789029108599118
+    second: boxy bold_77
+  - first:
+      213: 422695368172934301
+    second: boxy bold_78
+  - first:
+      213: -5591782089654970130
+    second: boxy bold_79
+  - first:
+      213: -173537538651222064
+    second: boxy bold_80
+  - first:
+      213: 1611820789712941145
+    second: boxy bold_81
+  - first:
+      213: -3499851180892111071
+    second: boxy bold_82
+  - first:
+      213: -7322201198909972420
+    second: boxy bold_83
+  - first:
+      213: -4803630280701861044
+    second: boxy bold_84
+  - first:
+      213: -392404635067316675
+    second: boxy bold_85
+  - first:
+      213: 4837240543457300349
+    second: boxy bold_86
+  - first:
+      213: 5004904865889670262
+    second: boxy bold_87
+  - first:
+      213: -4851854594122107736
+    second: boxy bold_88
+  - first:
+      213: -1365511559279469520
+    second: boxy bold_89
+  - first:
+      213: -5557040341624914015
+    second: boxy bold_90
+  - first:
+      213: 8506105728783384656
+    second: boxy bold_91
+  - first:
+      213: 706322121152302149
+    second: boxy bold_92
+  - first:
+      213: -2022981651037220149
+    second: boxy bold_93
+  - first:
+      213: 2307598126515565769
+    second: boxy bold_94
+  - first:
+      213: -5711187802795717977
+    second: boxy bold_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boxy bold_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0727ccb0296aec0800000000000000
+      internalID: -4996111385540782556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e40e7d6d1df4470800000000000000
+      internalID: -9113147294490029140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b573455024353520800000000000000
+      internalID: 602644359431820373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3987de47b18da60800000000000000
+      internalID: 6847591342968336768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b95f73d1c6ce30800000000000000
+      internalID: 3046433768831883521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a281bdf6a1fe90800000000000000
+      internalID: -540629622861439690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395bbd172e5f91090800000000000000
+      internalID: 7067305178502270859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4d6a98b4174e650800000000000000
+      internalID: -7967279630707282703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a4b9011f0190210800000000000000
+      internalID: 183136469496845387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb7b395f21cefd0800000000000000
+      internalID: -560701393189592678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5d3d5c79b2d2d80800000000000000
+      internalID: -4344506592074048321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444f76c0b642bc80800000000000000
+      internalID: -8355795876744824711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce146e6662226e60800000000000000
+      internalID: 3208495178721420481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9205a38fe6be20c0800000000000000
+      internalID: -3034695398683040550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041e407fadc4eab0800000000000000
+      internalID: 5726078869492818293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a78e4e93e771bf0800000000000000
+      internalID: -4360730149776949970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864a315842bc45210800000000000000
+      internalID: 6070410288233114916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c6beecf97e48fd0800000000000000
+      internalID: -8237042410892931890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756240e2f33d3af40800000000000000
+      internalID: -8690171436039817333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449cf4ed885ec27d0800000000000000
+      internalID: 1093925496483121196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc16088817548aa0800000000000000
+      internalID: -2931484290023171635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77af1d787d457390800000000000000
+      internalID: -138908148845076357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9abede21137bab0800000000000000
+      internalID: -3253802627529684707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1732c8c8855ebe30800000000000000
+      internalID: 4789678446239722794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de9857acc0aed7d0800000000000000
+      internalID: 1188059641670440953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0214e1677dd267d0800000000000000
+      internalID: -3045499252729017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b4b5a86e2b2b650800000000000000
+      internalID: 1169645266073594957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f653d13a55e0f0800000000000000
+      internalID: -1573334742257239334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da27c1bc6371250800000000000000
+      internalID: 7640201458361407791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697059271b61d98b0800000000000000
+      internalID: -3222115015946048460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e722aaca7982d70800000000000000
+      internalID: -8347796518051701960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2867d3be4656ec680800000000000000
+      internalID: -5970210936825666998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aafcf0abb1620120800000000000000
+      internalID: 5088676880496988412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a07af1b19e9e1bd0800000000000000
+      internalID: -5606086136565982202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508cd2b4c5bec15e0800000000000000
+      internalID: -8022429604867443598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c747f17db802b620800000000000000
+      internalID: 3629558766271791742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e913ac5d7a884c10800000000000000
+      internalID: 1055771045683850688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c6e12133485dc50800000000000000
+      internalID: 8350222001273952452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fd5c471ea79480800000000000000
+      internalID: 4032540321486841133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fb9c6844d26d20800000000000000
+      internalID: 5179439275744523346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4de690a629d700800000000000000
+      internalID: -5308603880640976057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d730f04fc617cb0800000000000000
+      internalID: 8495494276810445403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ebc881a0ec01ee0800000000000000
+      internalID: 1024563344415414435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365945ca38f444ab0800000000000000
+      internalID: 8804950497941074382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7041667ac2ab9740800000000000000
+      internalID: 4110322998232385313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f4327cc7ba40e90800000000000000
+      internalID: 2071816293107392126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1616f6480a67920800000000000000
+      internalID: -3764155875957576391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 40
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8252c5cc6ebfa4a0800000000000000
+      internalID: -6632075037869405867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e401d58519e1300800000000000000
+      internalID: 8517252346407891737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7413d984bf14bf90800000000000000
+      internalID: -4059983768473021730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b88c4ffa1351a70800000000000000
+      internalID: -3379204157536049074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f79c0a51ee8150800000000000000
+      internalID: 7708455618196070012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58491a482a023be60800000000000000
+      internalID: 6741688181171530423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d8c8d425d8bb00800000000000000
+      internalID: 7733063071290879180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c739cd8abd318770800000000000000
+      internalID: 607811739555253970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7087624a7f7390800000000000000
+      internalID: -8931097606182128345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e3c676b75d4d80800000000000000
+      internalID: -5437125348903510403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cb1dbb0a3be050800000000000000
+      internalID: -7774446982008413684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467c8bf9ea5fed70800000000000000
+      internalID: -5893702044382639930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9923682dd8ddb0800000000000000
+      internalID: 4558993158651768318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254bb0a2f8d88c7d0800000000000000
+      internalID: -6813867186012460128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0469d4ec207342240800000000000000
+      internalID: -3214921672094344305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24e78ce044c6000800000000000000
+      internalID: -6812741966619895747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af9048f355140f0800000000000000
+      internalID: -1198042531137153517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b806775aa42ca0800000000000000
+      internalID: 198299121020363275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c266911264bc9d700800000000000000
+      internalID: 3134305028495434727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1c5ab8cc4bbbd00800000000000000
+      internalID: 1903295701856787208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361a6c30b4acd280800000000000000
+      internalID: 8305557071822538074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140bac051de363940800000000000000
+      internalID: 3771736595119753673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ccd10ac58cd32b0800000000000000
+      internalID: 6125365818328088619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6451a5700fcbe80800000000000000
+      internalID: -4763031434608982561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd601ea32326ab10800000000000000
+      internalID: 1194409775067723407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa07605558e4a50800000000000000
+      internalID: -6177425481686347357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9524854c96460f0800000000000000
+      internalID: -5865099338802533484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00a2a8e8186d880800000000000000
+      internalID: -8738543781014219115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66321411015b4310800000000000000
+      internalID: -4333838033703443656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d014b3698f29a40800000000000000
+      internalID: 6578981946547586518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49460a801e377830800000000000000
+      internalID: 132788538588797122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d949624a237bdd500800000000000000
+      internalID: 801120143603130901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee859b4e0dff562b0800000000000000
+      internalID: -2881629194927878148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df8f7d2788779df0800000000000000
+      internalID: -8997511223726405368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950fd6ce7765e5610800000000000000
+      internalID: 1298298055295119732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb13cd4e70e6fc0800000000000000
+      internalID: -622430794035850304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302805edc0526a90800000000000000
+      internalID: -3462102963283669306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a47ed5b3165db0800000000000000
+      internalID: 7257519216442156373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36889e3016ed8af0800000000000000
+      internalID: 2867850873146946899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fc3ed35a4512340800000000000000
+      internalID: 1967459211099267017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6745af9557ef47540800000000000000
+      internalID: 3960904150179435669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4318fe3ffbaacb0800000000000000
+      internalID: -3966318516207166172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c157cb87abc0de0800000000000000
+      internalID: 5888390243576482388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7ee2704d61e2b0800000000000000
+      internalID: -7796794731698214552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508c02d712cb0670800000000000000
+      internalID: 8908555231413795479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c88481a3c5dc900800000000000000
+      internalID: -4108162280001956554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21bc618ecece3e0800000000000000
+      internalID: -4751345281896108273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxy bold_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e9e07a0fb27ac448126310d7815a93
+      internalID: 578862891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boxy bold_33: -5606086136565982202
+      boxy bold_56: -5437125348903510403
+      boxy bold_90: -7796794731698214552
+      boxy bold_1: -9113147294490029140
+      boxy bold_52: 6741688181171530423
+      boxy bold_48: 8517252346407891737
+      boxy bold_74: -8738543781014219115
+      boxy bold_7: -7967279630707282703
+      boxy bold_94: 578862891
+      boxy bold_72: -6177425481686347357
+      boxy bold_70: -4763031434608982561
+      boxy bold_51: 7708455618196070012
+      boxy bold_80: -8997511223726405368
+      boxy bold_92: -4108162280001956554
+      boxy bold_37: 8350222001273952452
+      boxy bold_59: 4558993158651768318
+      boxy bold_58: -5893702044382639930
+      boxy bold_65: 3134305028495434727
+      boxy bold_8: 183136469496845387
+      boxy bold_28: 7640201458361407791
+      boxy bold_75: -4333838033703443656
+      boxy bold_12: 3208495178721420481
+      boxy bold_79: -2881629194927878148
+      boxy bold_36: 1055771045683850688
+      boxy bold_87: 3960904150179435669
+      boxy bold_31: -5970210936825666998
+      boxy bold_29: -3222115015946048460
+      boxy bold_53: 7733063071290879180
+      boxy bold_68: 3771736595119753673
+      boxy bold_89: 5888390243576482388
+      boxy bold_91: 8908555231413795479
+      boxy bold_22: -3253802627529684707
+      boxy bold_46: -3764155875957576391
+      boxy bold_61: -3214921672094344305
+      boxy bold_9: -560701393189592678
+      boxy bold_88: -3966318516207166172
+      boxy bold_14: 5726078869492818293
+      boxy bold_43: 8804950497941074382
+      boxy bold_76: 6578981946547586518
+      boxy bold_41: 8495494276810445403
+      boxy bold_0: -4996111385540782556
+      boxy bold_4: 3046433768831883521
+      boxy bold_23: 4789678446239722794
+      boxy bold_60: -6813867186012460128
+      boxy bold_35: 3629558766271791742
+      boxy bold_81: 1298298055295119732
+      boxy bold_50: -3379204157536049074
+      boxy bold_64: 198299121020363275
+      boxy bold_45: 2071816293107392126
+      boxy bold_77: 132788538588797122
+      boxy bold_84: 7257519216442156373
+      boxy bold_19: 1093925496483121196
+      boxy bold_16: 6070410288233114916
+      boxy bold_62: -6812741966619895747
+      boxy bold_25: -3045499252729017701
+      boxy bold_69: 6125365818328088619
+      boxy bold_6: 7067305178502270859
+      boxy bold_44: 4110322998232385313
+      boxy bold_57: -7774446982008413684
+      boxy bold_73: -5865099338802533484
+      boxy bold_21: -138908148845076357
+      boxy bold_26: 1169645266073594957
+      boxy bold_47: -6632075037869405867
+      boxy bold_2: 602644359431820373
+      boxy bold_18: -8690171436039817333
+      boxy bold_40: -5308603880640976057
+      boxy bold_38: 4032540321486841133
+      boxy bold_3: 6847591342968336768
+      boxy bold_55: -8931097606182128345
+      boxy bold_63: -1198042531137153517
+      boxy bold_42: 1024563344415414435
+      boxy bold_20: -2931484290023171635
+      boxy bold_5: -540629622861439690
+      boxy bold_39: 5179439275744523346
+      boxy bold_86: 1967459211099267017
+      boxy bold_82: -622430794035850304
+      boxy bold_83: -3462102963283669306
+      boxy bold_24: 1188059641670440953
+      boxy bold_78: 801120143603130901
+      boxy bold_85: 2867850873146946899
+      boxy bold_27: -1573334742257239334
+      boxy bold_10: -4344506592074048321
+      boxy bold_13: -3034695398683040550
+      boxy bold_71: 1194409775067723407
+      boxy bold_34: -8022429604867443598
+      boxy bold_17: -8237042410892931890
+      boxy bold_54: 607811739555253970
+      boxy bold_93: -4751345281896108273
+      boxy bold_67: 8305557071822538074
+      boxy bold_49: -4059983768473021730
+      boxy bold_66: 1903295701856787208
+      boxy bold_32: 5088676880496988412
+      boxy bold_15: -4360730149776949970
+      boxy bold_11: -8355795876744824711
+      boxy bold_30: -8347796518051701960
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

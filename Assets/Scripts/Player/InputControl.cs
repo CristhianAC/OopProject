@@ -1,30 +1,39 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class InputControll
+namespace InputC
 {
-    
-    public float movev;
-    public float moveh;
-    public bool interact;
-    public bool menu;
-    
-
-    // Update is called once per frame
-    
-    
-        
-
-
-
-    public void check()
+    public class InputControll
     {
-        movev = Input.GetAxisRaw("Vertical");
-        moveh = Input.GetAxisRaw("Horizontal");
-        
-        interact = Input.GetKeyDown("e");
-        
-        menu = Input.GetKeyDown("j");
+        public float movev;
+        public float moveh;
+        public bool interact;
+        public bool Backpack;
+
+        public InputControll()
+        {
+             movev = 0f;
+             moveh = 0f;
+             interact = false;
+             Backpack = false;
+
+        }
+
+        // Update is called once per frame
+
+
+
+
+
+
+        public void check()
+        {
+            movev = Input.GetAxisRaw("Vertical");
+            moveh = Input.GetAxisRaw("Horizontal");
+
+            interact = Input.GetKeyDown("e");
+
+            Backpack = Input.GetKeyDown("j");
+        }
     }
-}
+ }
+
